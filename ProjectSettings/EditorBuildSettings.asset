@@ -5,9 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: 82b9e04d1773f4e08ad52a7775d863ff
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/RD3_CasaDeCampo_Teste.unity
     guid: 18ceb107e4b857148b8fbbcd553025c1
