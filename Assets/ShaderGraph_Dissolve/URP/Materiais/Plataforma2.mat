@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5676036420968681939
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Plataforma2
+  m_Shader: {fileID: -6465566751694194690, guid: 8a1b6e0b97275c047a05827fae378555, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Cubemap_083f940b81da4cf0b4f2f209b8b4d6af:
+        m_Texture: {fileID: 8900000, guid: a94a7e7ddf9d0994083bd7acdcd5c2f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Cubemap_499df28e75584e4baae7e78a70894e51:
+        m_Texture: {fileID: 8900000, guid: 331148006aabf074886d849804236ee2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_193958D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4D780C73:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4F23F56A:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_98834195:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: 539d1a67198d4ed4685a8422b25b8645, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Boolean_396FC17C: 1
+    - Boolean_6B2B9B4C: 1
+    - Boolean_70E3B3AD: 1
+    - Vector1_1701e965cbf84f25ab3efcd2fd61255a: 0.89
+    - Vector1_2165C8F: 1
+    - Vector1_23576ace586946adb3026286a3dffc74: 0
+    - Vector1_42f405787e9c400bb17b565c27ee224a: 0.2
+    - Vector1_4AFE28DA: 0.81
+    - Vector1_5ea2ea81dded4a7c9eb232d9a83fb6fb: 0.1
+    - Vector1_6f2c4eb54ddb49a581a3249664392ac7: 50.41
+    - Vector1_8f708d2959f740bb86471549d5db91f7: 0.08
+    - Vector1_9695E8D5: 1
+    - Vector1_e0f32b77fe2e4c9d901271afafb8b986: 0.153
+    - Vector1_e424a3e8f99b4f31938fd71a4f7ae3c4: 0
+    - _Alpha: 1
+    - _AlphaClip: 0
+    - _EMIPower: 0.72
+    - _QueueControl: 1
+    - _QueueOffset: 0
+    m_Colors:
+    - Color_08cd8cb20205403ca15e90a5aee6cea6: {r: 0.1649385, g: 0.11901445, b: 0.11901445, a: 0.35686275}
+    - Color_456F2CF6: {r: 1, g: 1, b: 1, a: 0}
+    - Color_6e5b9a6f798f47c9b043670d7e921d9b: {r: 0.9221513, g: 0.9221513, b: 0.9221513, a: 0.8509804}
+    - Color_AD6E3936: {r: 1, g: 1, b: 1, a: 1}
+    - Color_AD6E3936_1: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - Color_b9e883d0e9844f839319a19fc7d6cf46: {r: 1, g: 1, b: 1, a: 0.25490198}
+    - Vector2_a59fb9f308924d4889df63447a14b7ba: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_f0442e8db628485a98a184f8347e37ef: {r: 0.37, g: 0.9, b: 0.51, a: 0}
+    - Vector4_40f8d7573cf54c8aaaa5504e97857261: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 1, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 1, g: 0.90943396, b: 0.90943396, a: 1}
+    - _Tilling: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

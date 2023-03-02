@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 83b0114f802da2a48a6a7c282905e1c0
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_BancoDeMadeira"
+    second: {fileID: 2100000, guid: d649e4a0a84832442bc3e6998463ba6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_Concreto"
+    second: {fileID: 2100000, guid: f72b725e445b3b74e9a7aa6bedfdfe2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_Fechadura"
+    second: {fileID: 2100000, guid: eca96153bc353ca46806d1a4878398b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_ForoMadeira"
+    second: {fileID: 2100000, guid: ca73bd3e4b0e0884aae266c3bd2bfc95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_JanelaDeMadeira01"
+    second: {fileID: 2100000, guid: c0b51b96f24aed640a3f42c8d425badf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_JanelaPortal1"
+    second: {fileID: 2100000, guid: 7258c12382fcabf479b94008c742015d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_Parede"
+    second: {fileID: 2100000, guid: 14cea36a752b84c4094938c875fa3e1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_Pilar"
+    second: {fileID: 2100000, guid: 7258c12382fcabf479b94008c742015d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_Piso"
+    second: {fileID: 2100000, guid: 7474b1a08037dd2429225f271980ef1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_PlantaVaso"
+    second: {fileID: 2100000, guid: 7523f78a3294e6945a9d9e6a7b16f951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_Plastico"
+    second: {fileID: 2100000, guid: 97b325c825c239941bb93b36f64feb74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_Resistencia"
+    second: {fileID: 2100000, guid: 58604b0d211c2df41b49bcbbcb986ebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_Terra"
+    second: {fileID: 2100000, guid: cbbfa691d30698346aa5ba85866cfb20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_Vaso"
+    second: {fileID: 2100000, guid: fe92c47ed4d426f4b86a8a634ab7533e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Casar\xE3o2_Mat_Vidro"
+    second: {fileID: 2100000, guid: 4fa593f2f28ce4e44bb50b00940a4a8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_BancoDeMadeira
+    second: {fileID: 2100000, guid: d649e4a0a84832442bc3e6998463ba6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Concreto
+    second: {fileID: 2100000, guid: f72b725e445b3b74e9a7aa6bedfdfe2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Fechadura
+    second: {fileID: 2100000, guid: eca96153bc353ca46806d1a4878398b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_ForoMadeira
+    second: {fileID: 2100000, guid: ca73bd3e4b0e0884aae266c3bd2bfc95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_JanelaDeMadeira01
+    second: {fileID: 2100000, guid: c0b51b96f24aed640a3f42c8d425badf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_JanelaPortal1
+    second: {fileID: 2100000, guid: 7258c12382fcabf479b94008c742015d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Parede
+    second: {fileID: 2100000, guid: 14cea36a752b84c4094938c875fa3e1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Pilar
+    second: {fileID: 2100000, guid: 7258c12382fcabf479b94008c742015d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Piso
+    second: {fileID: 2100000, guid: 7474b1a08037dd2429225f271980ef1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_PlantaVaso
+    second: {fileID: 2100000, guid: 7523f78a3294e6945a9d9e6a7b16f951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Plastico
+    second: {fileID: 2100000, guid: 97b325c825c239941bb93b36f64feb74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Resistencia
+    second: {fileID: 2100000, guid: 58604b0d211c2df41b49bcbbcb986ebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Telhado
+    second: {fileID: 2100000, guid: 69698b8260e965549acb81eebe8255a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Telhas
+    second: {fileID: 2100000, guid: a9351ee62271b9847a8bc6fed66f673e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Terra
+    second: {fileID: 2100000, guid: cbbfa691d30698346aa5ba85866cfb20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Vaso
+    second: {fileID: 2100000, guid: fe92c47ed4d426f4b86a8a634ab7533e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Vidro
+    second: {fileID: 2100000, guid: 4fa593f2f28ce4e44bb50b00940a4a8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: eca96153bc353ca46806d1a4878398b3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Parede_Height
+    second: {fileID: 2800000, guid: 17ee0eb041bde3e4481fecf4da13ab9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_lambert1_BaseColor
+    second: {fileID: 2800000, guid: eae106c4717c75d43aeeeb31b9bda394, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_lambert1_Normal
+    second: {fileID: 2800000, guid: 957998d673a6e494587baf5eec44c02f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodTileee
+    second: {fileID: 2800000, guid: 4ca162e32b257a341b8c860a9e5f13e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: download
+    second: {fileID: 2800000, guid: 1d22c1e29dcbf354392dc29eaf6f9d06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: folhanormal
+    second: {fileID: 2800000, guid: 962f956eac2ab714aa326a800d60136f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: images
+    second: {fileID: 2800000, guid: 729f6c8f527f9cf4c8279387623efb31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: red-tile-texture
+    second: {fileID: 2800000, guid: 9174fe8e1b6778f4aad0996b043be6b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: telhadoLow_lambert1_BaseColor
+    second: {fileID: 2800000, guid: 7659c87551d07f0409c193f8ecd21fd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: telhadoLow_lambert1_Normal
+    second: {fileID: 2800000, guid: 1d9e9fabd85353c4f8353e7af934a8ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tiole
+    second: {fileID: 2800000, guid: 49364a2c8d38b7648b1c1f0f35582ca8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: unknown
+    second: {fileID: 2800000, guid: 38c78f815d1acdb498d6babe4638f980, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 15
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
