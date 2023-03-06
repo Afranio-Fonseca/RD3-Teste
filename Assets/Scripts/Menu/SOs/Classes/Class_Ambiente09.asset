@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 005a77942202c4ad7a85e42f18cd1e58, type: 3}
+  m_Name: Class_Ambiente09
+  m_EditorClassIdentifier: 
+  id: 0
+  subject: 1
+  schoolYear: 1
+  className: Ambiente09
+  classDescription: "Poliniza\xE7\xE3o"
+  classContents:
+  - "O Ambiente 9 tem como tem\xE1tica a poliniza\xE7\xE3o das plantas e seus diversos
+    instrumentos para sua ocorr\xEAncia. Os alunos poder\xE3o observar de uma nova
+    perspectiva fora do comum todo o processo para reprodu\xE7\xE3o das angiospermas
+    e gimnospermas aqui presentes.\r\n"
+  classSprite: {fileID: 0}
+  sceneReference:
+    m_AssetGUID: e8b648f3c0338d84a81da0d9a9e63303
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

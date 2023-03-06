@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 005a77942202c4ad7a85e42f18cd1e58, type: 3}
+  m_Name: Class_Ambiente02
+  m_EditorClassIdentifier: 
+  id: 0
+  subject: 1
+  schoolYear: 1
+  className: Ambiente02
+  classDescription: Cerrado
+  classContents:
+  - "O Ambiente 2 tem como tem\xE1tica os animais, as plantas e suas cadeias alimentares.
+    Os alunos conseguir\xE3o  observar as din\xE2micas complexas do ecossistema,
+    al\xE9m de ver diferentes modos de vida e comportamentos. \r"
+  classSprite: {fileID: 21300000, guid: 18ead3c65e1f129438515a18b98f8ac7, type: 3}
+  sceneReference:
+    m_AssetGUID: e8b648f3c0338d84a81da0d9a9e63303
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

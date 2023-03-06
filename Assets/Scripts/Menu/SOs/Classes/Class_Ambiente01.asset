@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 005a77942202c4ad7a85e42f18cd1e58, type: 3}
+  m_Name: Class_Ambiente01
+  m_EditorClassIdentifier: 
+  id: 0
+  subject: 1
+  schoolYear: 1
+  className: Ambiente01
+  classDescription: Mata Atlantica
+  classContents:
+  - "O Ambiente 1 tem as Plantas como sua tem\xE1tica e permitir\xE1 aos alunos entrar
+    em contato  com toda diversidade vegetal e seus grupos: bri\xF3\uFB01tas, pterid\xF3\uFB01tas,
+    gimnospermas e  angiospermas, destacando suas diferentes caracter\xEDsticas.\r"
+  classSprite: {fileID: 21300000, guid: 1a0992ac185591048a58aa8d0423680d, type: 3}
+  sceneReference:
+    m_AssetGUID: 912c55afc6ced044b82a6864a2387dbb
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

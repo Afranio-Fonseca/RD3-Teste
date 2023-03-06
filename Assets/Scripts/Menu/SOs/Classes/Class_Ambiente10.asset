@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 005a77942202c4ad7a85e42f18cd1e58, type: 3}
+  m_Name: Class_Ambiente10
+  m_EditorClassIdentifier: 
+  id: 0
+  subject: 1
+  schoolYear: 1
+  className: Ambiente10
+  classDescription: Sistema Solar
+  classContents:
+  - "O Ambiente 10 tem como tem\xE1tica o estudo espacial do Sistema Solar e seus
+    componentes. Os alunos poder\xE3o observar em uma perspectiva  inserida no espa\xE7o
+    e pr\xF3ximo aos corpos estelares, todas as suas movimenta\xE7\xF5es, comportamentos
+    e informa\xE7\xF5es de uma maneira geral e abrangente.\r\n"
+  classSprite: {fileID: 0}
+  sceneReference:
+    m_AssetGUID: e8b648f3c0338d84a81da0d9a9e63303
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
